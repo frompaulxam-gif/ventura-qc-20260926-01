@@ -2,3 +2,5 @@
 
 .grid { display: block; }
 .item { margin-bottom: 48px; }
+
+.motion-actions { display:flex; margin-bottom:16px; }
