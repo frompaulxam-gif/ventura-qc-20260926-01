@@ -19,7 +19,7 @@
           "width": 1280,
           "height": 826,
           "image": "media/01-new.png",
-          "source": "https://venturasolutions.co.uk/#everyday"
+          "source": "preview/#everyday"
         }
       ],
       "brand": "Desktop"
@@ -43,7 +43,7 @@
           "width": 390,
           "height": 1669,
           "image": "media/02-new.png",
-          "source": "https://venturasolutions.co.uk/#everyday"
+          "source": "preview/#everyday"
         }
       ],
       "brand": "Phone"
@@ -69,7 +69,7 @@
           "height": 900,
           "video": "media/03-new.mp4",
           "poster": "media/03-new-poster.jpg",
-          "source": "https://venturasolutions.co.uk/#everyday"
+          "source": "preview/#everyday"
         }
       ],
       "brand": "Motion"
